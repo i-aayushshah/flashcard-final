@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add any global styles here */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.perspective {
+  perspective: 1000px;
+}
